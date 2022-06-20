@@ -23,7 +23,10 @@ Earning releases of Russell 3000 stocks have a huge impact on their future stock
 
 <div align=center><img width="1000" height="450" src="https://user-images.githubusercontent.com/98775790/174505104-0e8ed909-c119-4896-9334-3476f27cc1ab.png"/></div>
 
+## Additional Notes
 
+- Some third party libraries (libcurl and json) are required to run the program
+- Stock price data are downloaded from EOD database using multi-threading
 
 
 
